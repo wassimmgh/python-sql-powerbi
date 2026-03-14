@@ -1,1 +1,5 @@
+# 1_ EXPLORATION :
 
+# TOTAL ROWS NUMBER IN THE TABLE :
+SELECT COUNT(*) AS total_rows
+FROM superstore;
